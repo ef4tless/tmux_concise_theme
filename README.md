@@ -7,7 +7,7 @@
 
 ![image](https://user-images.githubusercontent.com/52035000/235902705-2f617d9c-e31b-401b-9731-5fa755c2bb15.png)
 ## 依赖
-默认处于鼠标模式，鼠标模式下复制需要安装插件xsel
+默认处于鼠标模式，鼠标模式下复制需要安装插件xsel，安装后重启
 ```shell
 sudo apt-get install xsel
 ```
