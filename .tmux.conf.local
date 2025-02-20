@@ -257,7 +257,7 @@ tmux_conf_theme_right_separator_sub=""
 #     - #{username}
 #     - #{username_ssh}
 tmux_conf_theme_status_left=""
-tmux_conf_theme_status_right="#{prefix}   #{mouse}#{pairing}"
+tmux_conf_theme_status_right="#{pane_current_path} #{prefix}   #{mouse}#{pairing}"
 
 # status left style
 tmux_conf_theme_status_left_fg="$tmux_conf_theme_colour_6,$tmux_conf_theme_colour_7,$tmux_conf_theme_colour_8"
